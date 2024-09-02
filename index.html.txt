@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pendidikan Jasmani, Olahraga, dan Kesehatan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background: #4CAF50;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            background: #333;
+            color: #fff;
+            padding: 0.5rem;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            padding: 0.5rem;
+            text-decoration: none;
+        }
+        .container {
+            padding: 1rem;
+        }
+        .section {
+            background: #fff;
+            margin: 1rem 0;
+            padding: 1rem;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Pendidikan Jasmani, Olahraga, dan Kesehatan</h1>
+    </header>
+
+    <nav>
+        <a href="#tentang">Tentang Kami</a> |
+        <a href="#kurikulum">Kurikulum</a> |
+        <a href="#tips">Tips Kesehatan</a> |
+        <a href="#jadwal">Jadwal Latihan</a> |
+        <a href="#kontak">Kontak</a>
+    </nav>
+
+    <div class="container">
+        <section id="tentang" class="section">
+            <h2>Tentang Kami</h2>
+            <p>Halaman ini didedikasikan untuk mempromosikan pentingnya Pendidikan Jasmani, Olahraga, dan Kesehatan. Kami menyediakan informasi dan sumber daya yang bermanfaat bagi siswa, guru, dan orang tua.</p>
+        </section>
+
+        <section id="kurikulum" class="section">
+            <h2>Kurikulum</h2>
+            <p>Kurikulum Pendidikan Jasmani mencakup berbagai aktivitas fisik dan pelajaran yang bertujuan untuk meningkatkan kesehatan dan kebugaran siswa. Kami fokus pada pengembangan keterampilan motorik, kebugaran jasmani, dan pengetahuan tentang kesehatan.</p>
+        </section>
+
+        <section id="tips" class="section">
+            <h2>Tips Kesehatan</h2>
+            <p>Untuk menjaga kesehatan tubuh, penting untuk melakukan olahraga secara teratur, mengonsumsi makanan sehat, dan cukup istirahat. Berikut beberapa tips kesehatan yang dapat diikuti:</p>
+            <ul>
+                <li>Olahraga setidaknya 30 menit setiap hari.</li>
+                <li>Konsumsi sayuran dan buah-buahan segar.</li>
+                <li>Hindari makanan yang tinggi gula dan lemak jenuh.</li>
+                <li>Pastikan untuk tidur 7-8 jam setiap malam.</li>
+            </ul>
+        </section>
+
+        <section id="jadwal" class="section">
+            <h2>Jadwal Latihan</h2>
+            <p>Contoh jadwal latihan mingguan untuk meningkatkan kebugaran:</p>
+            <ul>
+                <li><strong>Senin:</strong> Jogging selama 30 menit</li>
+                <li><strong>Selasa:</strong> Latihan kekuatan (angkat beban ringan)</li>
+                <li><strong>Rabu:</strong> Yoga atau stretching</li>
+                <li><strong>Kamis:</strong> Bersepeda selama 30 menit</li>
+                <li><strong>Jumat:</strong> Aerobik atau Zumba</li>
+                <li><strong>Sabtu:</strong> Hiking atau berjalan kaki</li>
+                <li><strong>Minggu:</strong> Istirahat dan pemulihan</li>
+            </ul>
+        </section>
+
+        <section id="kontak" class="section">
+            <h2>Kontak</h2>
+            <p>Jika Anda memiliki pertanyaan atau ingin berbagi umpan balik, silakan hubungi kami di: <a href="mailto:info@pendidikanjasmani.com">info@pendidikanjasmani.com</a></p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Pendidikan Jasmani, Olahraga, dan Kesehatan. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
